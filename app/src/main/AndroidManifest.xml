@@ -36,10 +36,10 @@
             android:name=".activities.CreatePostActivity"
             android:configChanges="orientation|screenSize"
             android:label="@string/label_create_post_activity" />
-        <activity
+        <!--<activity
             android:name=".activities.PhoneAuthActivity"
             android:label="@string/label_phone_auth"
-            android:windowSoftInputMode="adjustPan" />
+            android:windowSoftInputMode="adjustPan" />-->
         <activity
             android:name=".activities.ImageDetailActivity"
             android:configChanges="orientation|screenSize"
